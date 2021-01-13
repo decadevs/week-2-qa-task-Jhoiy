@@ -23,6 +23,7 @@ Test coverage is very important in software testing because:
 * Interface Testing
 * Regression Testing
 * User Acceptance Testing
+
 *Unit testing* –This type of testing is done of single modules to check whether or not it has been developed properly. The type of test coverage used is function coverage.
 *Integration testing* – Here, individual modules are combined together and are tested as a group to see the interaction between them
 There are different approaches to carrying out integration testing, namely:
@@ -126,9 +127,9 @@ So we have 3 conditions and 2 ^ 3 rules = 8 rules = 8 no of possible test cases.
 
 7. ![Decision table technique](./images/7.png)
 
-8. 
+8. ![Decision table technique](./images/8.png)
 
-9. 
+9. ![Decision table technique](./images/9.png)
 
 10. I would apply state transition technique.
 
