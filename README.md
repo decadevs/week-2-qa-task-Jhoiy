@@ -118,22 +118,21 @@ So, we can have classes: 0-14, 15-200, 201-500, picking  from first class result
 * *Decision Table Technique* – Here, we design a decision table with the three conditions given namely: Password must contain at least one character, Password must contain at least one number and Password must contain at least one capital letter.
 So we have 3 conditions and 2 ^ 3 rules = 8 rules = 8 no of possible test cases.
 
-![Decision table technique](./images/decision-table-tech.png)
+https://drive.google.com/drive/folders/1KQkoDGnaDPZqiePhxmVGu6QwxzOR0RsU?usp=sharing
 
 * //
 * Here, we use state transitioning technique. Once a user puts in his/her email and password, if valid he/she is logged in, if not a second trial is given and if valid, he/she is logged in. If not valid, a third trial is given and if the login details is valid access is given, else the user is denied access.
 * Here, we use error guessing. In this case we guess that the user is not registered.
 * TypeError.
 
-7. ![Decision table technique](./images/7.png)
+7. https://drive.google.com/drive/folders/1F3dykJbwF062i-gP18CE83ZgBrBlmU2I?usp=sharing
 
-8. ![Decision table technique](./images/8.png)
+8. https://drive.google.com/drive/folders/1UEyuNozRBW4bF8N25J6FW366kE0YEdZd?usp=sharing
 
-9. ![Decision table technique](./images/9.png)
+9. https://drive.google.com/drive/folders/1ZLqIgd35jBeiL-AOfUNER4TxU8iSGiyj?usp=sharing
 
 10. I would apply state transition technique.
-
-![State transition technique](./images/10.png)
+https://drive.google.com/drive/folders/1JDLEYlNrg2JwH3WO8Fuo3-nol12nOgsU?usp=sharing
 
 
 
