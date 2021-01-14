@@ -1,9 +1,9 @@
 # WEEK TWO TASK ANSWERS
 1.	Test coverage is a metric used to determine/check how thorough our testing is. It looks at our test cases and determines if they actually cover every area of our application codes/software.
-They are of different types of coverage namely:
+They are of different types namely:
 * Function Coverage —  This type checks to see the fraction of functions that have been used. 
 * Statement Coverage — It looks at the fraction of code statements  that have been tested. It checks whether each line of code has been executed
-* Branch Coverage(also called Path Coverage) — It checks whether or not  both true and false branch paths been exercised. 
+* Branch Coverage(also called Path Coverage) — It checks whether or not  both true and false branch paths have been exercised. 
 Test coverage is very important in software testing because:
 * It checks to ensure that every possible test case/ test scenario has been exhausted so as to prevent future bugs and if not, it enables us create more test cases.
 * It handles any error that might arise.
