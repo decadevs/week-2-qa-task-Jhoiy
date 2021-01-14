@@ -24,7 +24,7 @@ Test coverage is very important in software testing because:
 * Regression Testing
 * User Acceptance Testing
 
-*Unit testing* –This type of testing is done of single modules to check whether or not it has been developed properly. The type of test coverage used is function coverage.
+*Unit testing* –This type of testing is done in single modules to check whether or not it has been developed properly. The type of test coverage used is function coverage.
 *Integration testing* – Here, individual modules are combined together and are tested as a group to see the interaction between them
 There are different approaches to carrying out integration testing, namely:
 * Big bang - It is an approach to integration testing where all or most of the units are combined together and tested at one goal. This happens when the testing team receives the entire software in a bundle.
